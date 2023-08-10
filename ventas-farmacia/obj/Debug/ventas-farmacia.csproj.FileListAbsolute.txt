@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\bin\Debug\ventas-farmacia.exe.config
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\bin\Debug\ventas-farmacia.exe
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\bin\Debug\ventas-farmacia.pdb
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\obj\Debug\ventas-farmacia.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\obj\Debug\ventas-farmacia.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\obj\Debug\ventas-farmacia.exe
+C:\Users\stefa\source\repos\ventas-farmacia\ventas-farmacia\obj\Debug\ventas-farmacia.pdb
